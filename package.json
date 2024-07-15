@@ -15,8 +15,8 @@
   "author": "Tony Truong",
   "license": "SEE LICENSE IN LICENSE",
   "devDependencies": {
-    "express": "^4.17.1",
-    "metro": "^0.59.0",
+    "express": "^4.19.2",
+    "metro": "^0.80.9",
     "metro-core": "^0.59.0",
     "parcel-bundler": "^1.12.4"
   },
